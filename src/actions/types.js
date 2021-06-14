@@ -1,0 +1,8 @@
+export const CREATE_POSTS = "CREATE_POSTS";
+export const RETRIEVE_POSTS = "RETRIEVE_POSTS";
+export const RETRIEVE_POSTS_BY_ID = "RETRIEVE_POSTS_BY_ID";
+export const FILTER_BY_USERS = "FILTER_BY_USERS";
+export const COMMENTS = "COMMENTS";
+export const UPDATE_POSTS = "UPDATE_POSTS";
+export const DELETE_POSTS = "DELETE_POSTS";
+
